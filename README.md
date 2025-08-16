@@ -21,7 +21,7 @@ name: Sifat Billah
 located_in: Dhaka, Bangladesh
 current_work: Full-Stack Developer
 education: 
-  - "Computer Science & Engineering at AIUB"
+  - "Computer Science & Engineering at DIU"
 
 fields_of_interests:
   - "Web Development"
@@ -78,6 +78,7 @@ interface Developer {
   availableForWork: true;
   skills: {
     languages: string["HTML" , "CSS" , "JavaScript" , "NodeJS"];
+    Currently Learning:
     frameworks: string["TailwindCSS" , "DaisiUI" ];
     databases: string["MongoDB"];
   };
