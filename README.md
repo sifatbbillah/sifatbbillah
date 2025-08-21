@@ -11,138 +11,118 @@
 
 </div>
 
-<!-- About Section with Cards -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+ <img src="assets/aboutme.gif" width="30"> About Me
 
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
-```yaml
-name: Sifat Billah
-located_in: Dhaka, Bangladesh
-current_work: Full-Stack Developer
-education: 
-  - "Computer Science & Engineering at DIU"
 
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development"
-  - "MERN Stack Developmnet"
-  - "Fornt-End Development"
-  - "Back-end Developmnet"
-  - "Open Source"
-  
-currently_learning: 
-  - "Next.js 15"
+Hi there! 👋 I'm **Sifat Billah**, a passionate **Full-Stack Web Developer** from Bangladesh 🇧🇩.  
+I’m currently a **3rd-year CSE student at Dhaka International University**, deeply interested in **modern web development** and building real-world projects.
 
-2025_goals:
-  - "Contribute to Open Source Projects"
-  - "Build Amazing Full-Stack Applications"
-  - "Learn Cloud Technologies"
-  - "Share Knowledge with Community"
-<!-- Tech Stack Section -->
-<br clear="right" />
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" /> Tech Stack</h2>
+💡 **What I Do**  
+- Craft responsive and user-friendly **frontend designs** using **React, TailwindCSS, and modern UI libraries**.  
+- Build powerful and scalable **backend APIs** with **Node.js, Express.js, and MySQL/MongoDB**.  
+- Deploy projects on **Vercel, Netlify, and Firebase** for seamless delivery.  
+
+🚀 **Current Focus**  
+I’m sharpening my skills in **Next.js** and **full-stack MERN applications**, aiming to become a **pro developer** and eventually **launch my own startup**.  
+ 
+
+📫 **Reach Me At**:  
+[LinkedIn](https://www.linkedin.com/in/sifat-billah) | [GitHub](https://github.com/sifat-billah) | [WhatsApp](https://wa.me/+880XXXXXXXXXX)  
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <div align="center">
-  <h3>🎨 Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
 
-  <h3>⚙️ Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
 
-  <h3>🛠️ Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
-  <h3>📱 Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+### 🛠️ **Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
+
+### 📱 **Languages**
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+
 </div>
 
-<!-- GitHub Analytics Section -->
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" /> GitHub Analytics</h2>
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
 <div align="center">
-  <!-- Stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sifatbillah&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatbillah&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=sifatbillah&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+![](https://github-readme-stats.vercel.app/api?username=sifat-billah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sifat-billah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-billah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifatbillah&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+---
+[![](https://visitcount.itsvg.in/api?id=sifat-billah&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
-<!-- Trophies Section -->
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" /> GitHub Trophies</h2>
+
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sifatbillah&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=sifat-billah&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
-<!-- Detailed Analytics -->
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32" /> Detailed Analytics</h2>
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifatbillah&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifatbillah&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifatbillah&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifatbillah&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifatbillah&theme=github_dark&utcOffset=6" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifat-billah&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifat-billah&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifat-billah&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifat-billah&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifat-billah&theme=github_dark&utcOffset=6" />
+
 </div>
 
-<!-- Social Links -->
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32" /> Let's Connect!</h2>
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32"> Let's Connect!
+
 <div align="center">
-  <!-- Add your social media badges here -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sifat-billah/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sifat-billah)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/sifat.billah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](sifatbillah)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801627527772)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sifatbillah.cse@gmail.com)
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
+
 </div>
 
-<!-- Current Focus -->
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32" /> What I'm Up To</h2>
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32"> What I'm Up To
+
 <div align="left">
-  <strong>Current Focus:</strong> TypeScript
-</div>
+
+```typescript
 interface Developer {
   name: "Sifat Billah";
   location: "Dhaka, Bangladesh";
-  currentRole: Full Stack Web Developer;
+  currentRole: "Full Stack Web Developer";
   availableForWork: true;
   skills: {
     languages: string["HTML" , "CSS" , "JavaScript" , "NodeJS"];
-    Currently Learning:
-    frameworks: string["TailwindCSS" , "DaisiUI" ];
+    frameworks: string["TailwindCSS" , "DaisyUI" ];
     databases: string["MongoDB"];
   };
   currentFocus: string["NextJS"];
 }
-<!-- 🚀 Live Metrics Section -->
-<h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" />
-  Live Metrics
-</h2>
-
-<div align="center">
-  <!-- 🔍 Profile Stats -->
-  <img src="https://komarev.com/ghpvc/?username=sifatbillah&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sifatbillah?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/sifatbillah?label=Total%20Stars&style=for-the-badge&color=yellow" />
-
-  <!-- 📊 Recent Activity -->
-  <h3>📊 Recent Activity</h3>
-
-  <!-- 💻 Weekly Coding Stats -->
-  <h3>💻 This Week's Coding Time</h3>
-  <pre>
-JavaScript   ████████████░░░░░░░░░   48.2%  
-React        ████████░░░░░░░░░░░░░   32.1%  
-TypeScript   ████░░░░░░░░░░░░░░░░░   16.5%  
-CSS          ██░░░░░░░░░░░░░░░░░░░    8.7%  
-HTML         █░░░░░░░░░░░░░░░░░░░░    4.3%
-  </pre>
-
-  <!-- 🎞️ Cool Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
-</div>
-
-<!-- 🎉 Footer Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
-</div>
